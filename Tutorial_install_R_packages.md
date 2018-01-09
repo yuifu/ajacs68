@@ -1,13 +1,13 @@
 # RStudioでのRのパッケージのインストール
 
-AJACS68 (AJACS浜松) [https://events.biosciencedbc.jp/training/ajacs68](https://events.biosciencedbc.jp/training/ajacs68)
+AJACS68 (AJACS浜松) [https://events.biosciencedbc.jp/training/ajacs68](https://events.biosciencedbc.jp/training/ajacs68)  
 January 17, 2018
 
-尾崎 遼
-Haruka Ozaki
+尾崎 遼  
+Haruka Ozaki  
 haruka.ozaki@riken.jp | http://yuifu.github.io | [@yuifu](https://twitter.com/yuifu)
 
-理化学研究所 情報基盤センター バイオインフォマティクス研究開発ユニット 基礎科学特別研究員
+理化学研究所 情報基盤センター バイオインフォマティクス研究開発ユニット 基礎科学特別研究員  
 Bioinformatics Research Unit, ACCC, RIKEN
 
 
@@ -21,20 +21,36 @@ Rに全く触ったことがない人も対象にしているため、やや冗�
 
 ## 内容
 
+- RとRStudioのインストール
 - RStudioでのRのコマンドの実行
 - レポジトリからのパッケージのインストール
   - CRANのパッケージのインストール
   - Bioconductorのパッケージのインストール
 
+---
 
 
-## 前提条件
+## RとRStudioのインストール
 
-RとRStudioのインストールが完了していることを前提とします。
+まず、RとRStudioのインストールを完了しましょう。
 
-- Rのインストール: https://cran.r-project.org/
-  - Windowsユーザーの方はこちらの日本語記事も参考になるかもしれません https://qiita.com/FukuharaYohei/items/8e0ddd0af11132031355
-- RStudioのインストール:　https://www.rstudio.com/products/rstudio/download/
+### Rのインストール
+
+1. アクセス https://cran.r-project.org/
+2. 「Download and Install R」から自分のOSのRをダウンロード（最新版はR 3.4.3）
+3. ダウンロードしたものをインストールして展開（基本的に初期設定でかまいません）
+
+Windowsユーザーの方はこちらの日本語記事も参考になります: https://qiita.com/FukuharaYohei/items/8e0ddd0af11132031355
+
+### RStudioのインストール
+
+1. アクセス https://www.rstudio.com/products/rstudio/download/
+2. Desktop Open Source License (FREE) の「download」をクリック
+3. 「Installers for Supported Platforms」（一覧表）に飛ぶのでそこから自分のOSのものを選んでダウンロード
+4. ダウンロードしたものをインストールして展開（基本的に初期設定でかまいません）
+
+RStudio の基本的な使い方はこちらが参考になります: 統合TV 「2017-05-12 RStudioでRを直感的に使おう MacOS版 2017」　http://togotv.dbcls.jp/20170512.html
+　　　　　　　　　　
 
 
 ----
