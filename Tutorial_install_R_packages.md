@@ -104,13 +104,13 @@ plot(cars)
 ### CRANのパッケージのインストール
 RのパッケージのレポジトリにCRANがあります。
 
-以下のコマンドを実行すると、CRNAから `tidyverse` というパッケージをインストールされます。
+以下のコマンドを実行すると、CRANから `tidyverse` というパッケージをインストールされます。
 
 ```
 install.packages("tidyverse")
 ```
 
-以下のコマンドを実行すると、CRNAから `magrittr` というパッケージをインストールされます。
+以下のコマンドを実行すると、CRANから `magrittr` というパッケージをインストールされます。
 
 ```
 install.packages("magrittr")
