@@ -15,7 +15,7 @@ Bioinformatics Research Unit, ACCC, RIKEN
 
 ## 概要
 
-この文章ではRStudioにおいてRのパッケージをインストールする方法を解説します。特にCRANとBioconductorからのインストールについて説明します。
+この文章ではRStudioでRのパッケージをインストールする方法を解説します。特にCRANとBioconductorからのインストールについて説明します。
 
 Rに全く触ったことがない人も対象にしているため、やや冗長な書き方になる部分もありますがご了承ください。
 
