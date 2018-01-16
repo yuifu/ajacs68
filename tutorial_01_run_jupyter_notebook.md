@@ -1,4 +1,4 @@
-# 実習用環境の準備
+# 実習の説明
 
 AJACS68 (AJACS浜松) [https://events.biosciencedbc.jp/training/ajacs68](https://events.biosciencedbc.jp/training/ajacs68)  
 January 17, 2018
@@ -15,12 +15,7 @@ Bioinformatics Research Unit, ACCC, RIKEN
 
 ## 概要
 
-この文章では実習用環境の準備について説明します。
-
-具体的には:
-
-1. Jupyter notebook へのアクセス
-2. 講習用データのダウンロード
+この文章では実習について説明します。[実習用環境の準備](tutorial_00_prepare_environment.md)が終わっていることを前提とします。
 
 実習用資料: https://github.com/yuifu/ajacs68
 
@@ -33,65 +28,23 @@ Bioinformatics Research Unit, ACCC, RIKEN
 
 Jupyter notebook はRを使うインターフェースの一つです。JupyterHubはたくさんのユーザに統一的なJupyter notebookの実行環境を提供するサーバーです。
 
-受講者の皆さんは、JupyterHubにアクセスし、Jupyter notebookでRを使います。また、実習に使用するデータをダウンロードします。
 
+## Jupyter notebook を開く
 
-## 方法
-### 1. Jupyter notebook (JupyterHub) へのアクセス
+`Chrome`でJupyter notebook のホーム画面を開いた状態にしてください。
 
-まず `Chrome` を起動し、事前に配られたグループに対応するURLへアクセスしてください。
+![](assets/tutorial_01_run_jupyter_notebook-34f81.png)
 
-- グループ1: TODO
-- グループ2: TODO
-- グループ3: TODO
-- グループ4: TODO
-- グループ5: TODO
+`ajacs68` のディレクトリ内に移動します。`ajacs68`をクリックしてください。
 
-アクセスすると下図のような画面が表示されます。`ADVANCED`をクリックしてください（下図、矢印）。
+下図のようなファイル一覧が表示されます。
 
-![](assets/tutorial_00_prepare_environment-bc64f.png)
+![](assets/tutorial_01_run_jupyter_notebook-42197.png)
 
-さらに、`Proceed to [IPアドレス] (unsafe)` をクリックします。
+`notebook_001_tumor_communication.ipynb`をクリックします。下図のようなタブが表示されれば成功です。
 
-![](assets/tutorial_00_prepare_environment-4c1ef.png)
+![](assets/tutorial_01_run_jupyter_notebook-f5ebd.png)
 
-すると、下図のようなログイン画面がでてきます。事前に配布したユーザ名とパスワードを入力して `Sign in` をクリックします。
-
-![](assets/tutorial_00_prepare_environment-436c2.png)
-
-下図の画面が出たらログイン成功です。
-
-![](assets/tutorial_00_prepare_environment-5f577.png)
-
-### 2. 講習用データのダウンロード
-
-ターミナルを起動します。`New`をクリックするとメニューが表示されます。その中から`Terminal`をクリックします。
-
-![](assets/tutorial_00_prepare_environment-b32a0.png)
-
-![](assets/tutorial_00_prepare_environment-646f1.png)
-
-すると新しいタブでターミナル（黒い画面）が表示されます。
-
-続いて、講習用のデータをダウンロードするコマンドを入力します。以下のコマンドを入力して `Enter` (もしくは`Return`)を押します。しばらく待って`Checking connectivity ... done` と表示されたら成功です。
-
-```
-git clone https://github.com/yuifu/ajacs68.git
-```
-
-![](assets/tutorial_00_prepare_environment-1f498.png)
-
-さらに以下のコマンドを入力します。`ajac68`と出力されたら成功です。
-
-```
-ls
-```
-
-![](assets/tutorial_00_prepare_environment-71f59.png)
-
-それでは最初のタブに戻ります。`ajacs68`というディレクトリが新たにできていると思います。
-
-![](assets/tutorial_00_prepare_environment-109e3.png)
 
 
 ----

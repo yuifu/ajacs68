@@ -26,8 +26,8 @@ __わからないこと、困ったこと、うまくいかないことがあり
 講義でやること:
 
 1. [実習用環境の準備](tutorial_00_prepare_environment.md)
-2. 実習[]
+2. [実習の説明](tutorial_01_run_jupyter_notebook.md)
 
 講義ではやらないこと:
 
-3. [RStudioでのRのパッケージのインストール](Tutorial_install_R_packages.md)
+3. [RStudioでのRのパッケージのインストール](tutorial_10_install_R_packages.md)
