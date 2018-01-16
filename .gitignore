@@ -1,2 +1,4 @@
 .DS_Store
 AJAC68_figures.key
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
