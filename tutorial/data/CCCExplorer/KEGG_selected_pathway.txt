@@ -1,0 +1,311 @@
+Metabolic pathways
+Biosynthesis of secondary metabolites
+Microbial metabolism in diverse environments
+Carbon metabolism
+2-Oxocarboxylic acid metabolism
+Fatty acid metabolism
+Biosynthesis of amino acids
+Degradation of aromatic compounds
+Glycolysis / Gluconeogenesis
+Citrate cycle (TCA cycle)
+Pentose phosphate pathway
+Pentose and glucuronate interconversions
+Fructose and mannose metabolism
+Galactose metabolism
+Ascorbate and aldarate metabolism
+Starch and sucrose metabolism
+Amino sugar and nucleotide sugar metabolism
+Pyruvate metabolism
+Glyoxylate and dicarboxylate metabolism
+Propanoate metabolism
+Butanoate metabolism
+C5-Branched dibasic acid metabolism
+Inositol phosphate metabolism
+Oxidative phosphorylation
+Photosynthesis
+Photosynthesis - antenna proteins
+Carbon fixation in photosynthetic organisms
+Carbon fixation pathways in prokaryotes
+Methane metabolism
+Nitrogen metabolism
+Sulfur metabolism
+Fatty acid biosynthesis
+Fatty acid elongation
+Fatty acid degradation
+Synthesis and degradation of ketone bodies
+Cutin, suberine and wax biosynthesis
+Steroid biosynthesis
+Primary bile acid biosynthesis
+Secondary bile acid biosynthesis
+Steroid hormone biosynthesis
+Glycerolipid metabolism
+Glycerophospholipid metabolism
+Ether lipid metabolism
+Sphingolipid metabolism
+Arachidonic acid metabolism
+Linoleic acid metabolism
+alpha-Linolenic acid metabolism
+Biosynthesis of unsaturated fatty acids
+Purine metabolism
+Pyrimidine metabolism
+Alanine, aspartate and glutamate metabolism
+Glycine, serine and threonine metabolism
+Cysteine and methionine metabolism
+Valine, leucine and isoleucine degradation
+Valine, leucine and isoleucine biosynthesis
+Lysine biosynthesis
+Lysine degradation
+Arginine and proline metabolism
+Histidine metabolism
+Tyrosine metabolism
+Phenylalanine metabolism
+Tryptophan metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis
+beta-Alanine metabolism
+Taurine and hypotaurine metabolism
+Phosphonate and phosphinate metabolism
+Selenocompound metabolism
+Cyanoamino acid metabolism
+D-Glutamine and D-glutamate metabolism
+D-Arginine and D-ornithine metabolism
+D-Alanine metabolism
+Glutathione metabolism
+N-Glycan biosynthesis
+Various types of N-glycan biosynthesis
+Mucin type O-Glycan biosynthesis
+Other types of O-glycan biosynthesis
+Glycosaminoglycan biosynthesis - CS/DS
+Glycosaminoglycan biosynthesis - HS/Hep
+Glycosaminoglycan biosynthesis - KS
+Glycosaminoglycan degradation
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Glycosphingolipid biosynthesis - lacto and neolacto series
+Glycosphingolipid biosynthesis - globo series
+Glycosphingolipid biosynthesis - ganglio series
+Lipopolysaccharide biosynthesis
+Peptidoglycan biosynthesis
+Other glycan degradation
+Thiamine metabolism
+Riboflavin metabolism
+Vitamin B6 metabolism
+Nicotinate and nicotinamide metabolism
+Pantothenate and CoA biosynthesis
+Biotin metabolism
+Lipoic acid metabolism
+Folate biosynthesis
+One carbon pool by folate
+Retinol metabolism
+Porphyrin and chlorophyll metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis
+Terpenoid backbone biosynthesis
+Monoterpenoid biosynthesis
+Sesquiterpenoid and triterpenoid biosynthesis
+Diterpenoid biosynthesis
+Carotenoid biosynthesis
+Brassinosteroid biosynthesis
+Insect hormone biosynthesis
+Zeatin biosynthesis
+Limonene and pinene degradation
+Geraniol degradation
+Type I polyketide structures
+Biosynthesis of 12-, 14- and 16-membered macrolides
+Biosynthesis of ansamycins
+Biosynthesis of type II polyketide backbone
+Biosynthesis of type II polyketide products
+Tetracycline biosynthesis
+Polyketide sugar unit biosynthesis
+Nonribosomal peptide structures
+Biosynthesis of siderophore group nonribosomal peptides
+Biosynthesis of vancomycin group antibiotics
+Phenylpropanoid biosynthesis
+Stilbenoid, diarylheptanoid and gingerol biosynthesis
+Flavonoid biosynthesis
+Flavone and flavonol biosynthesis
+Anthocyanin biosynthesis
+Isoflavonoid biosynthesis
+Indole alkaloid biosynthesis
+Isoquinoline alkaloid biosynthesis
+Tropane, piperidine and pyridine alkaloid biosynthesis
+Acridone alkaloid biosynthesis
+Caffeine metabolism
+Betalain biosynthesis
+Glucosinolate biosynthesis
+Benzoxazinoid biosynthesis
+Penicillin and cephalosporin biosynthesis
+Streptomycin biosynthesis
+Butirosin and neomycin biosynthesis
+Clavulanic acid biosynthesis
+Puromycin biosynthesis
+Novobiocin biosynthesis
+Aflatoxin biosynthesis
+Benzoate degradation
+Aminobenzoate degradation
+Fluorobenzoate degradation
+Chloroalkane and chloroalkene degradation
+Chlorocyclohexane and chlorobenzene degradation
+Toluene degradation
+Xylene degradation
+Nitrotoluene degradation
+Ethylbenzene degradation
+Styrene degradation
+Atrazine degradation
+Caprolactam degradation
+DDT degradation
+Bisphenol degradation
+Dioxin degradation
+Naphthalene degradation
+Polycyclic aromatic hydrocarbon degradation
+Furfural degradation
+Steroid degradation
+Metabolism of xenobiotics by cytochrome P450
+Drug metabolism - cytochrome P450
+Drug metabolism - other enzymes
+Pesticides
+Overview of biosynthetic pathways
+Biosynthesis of plant secondary metabolites
+Biosynthesis of phenylpropanoids
+Biosynthesis of terpenoids and steroids
+Biosynthesis of alkaloids derived from shikimate pathway
+Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+Biosynthesis of alkaloids derived from histidine and purine
+Biosynthesis of alkaloids derived from terpenoid and polyketide
+Biosynthesis of plant hormones
+RNA polymerase
+Basal transcription factors
+Spliceosome
+Ribosome
+Aminoacyl-tRNA biosynthesis
+RNA transport
+mRNA surveillance pathway
+Ribosome biogenesis in eukaryotes
+Protein export
+Protein processing in endoplasmic reticulum
+SNARE interactions in vesicular transport
+Ubiquitin mediated proteolysis
+Sulfur relay system
+Proteasome
+RNA degradation
+DNA replication
+Base excision repair
+Nucleotide excision repair
+Mismatch repair
+Homologous recombination
+Non-homologous end-joining
+Fanconi anemia pathway
+ABC transporters
+Phosphotransferase system (PTS)
+Bacterial secretion system
+Two-component system
+Ras signaling pathway
+Rap1 signaling pathway
+MAPK signaling pathway
+ErbB signaling pathway
+Wnt signaling pathway
+Notch signaling pathway
+Hedgehog signaling pathway
+TGF-beta signaling pathway
+Hippo signaling pathway
+VEGF signaling pathway
+Jak-STAT signaling pathway
+NF-kappa B signaling pathway
+TNF signaling pathway
+HIF-1 signaling pathway
+FoxO signaling pathway
+Calcium signaling pathway
+Phosphatidylinositol signaling system
+cGMP-PKG signaling pathway
+PI3K-Akt signaling pathway
+mTOR signaling pathway
+Plant hormone signal transduction
+Neuroactive ligand-receptor interaction
+Cytokine-cytokine receptor interaction
+ECM-receptor interaction
+Cell adhesion molecules (CAMs)
+Endocytosis
+Phagosome
+Lysosome
+Peroxisome
+Regulation of autophagy
+Bacterial chemotaxis
+Flagellar assembly
+Regulation of actin cytoskeleton
+Cell cycle
+Oocyte meiosis
+Apoptosis
+p53 signaling pathway
+Focal adhesion
+Adherens junction
+Tight junction
+Gap junction
+Hematopoietic cell lineage
+Complement and coagulation cascades
+Platelet activation New!
+Toll-like receptor signaling pathway
+NOD-like receptor signaling pathway
+RIG-I-like receptor signaling pathway
+Cytosolic DNA-sensing pathway
+Natural killer cell mediated cytotoxicity
+Antigen processing and presentation
+T cell receptor signaling pathway
+B cell receptor signaling pathway
+Fc epsilon RI signaling pathway
+Fc gamma R-mediated phagocytosis
+Leukocyte transendothelial migration
+Intestinal immune network for IgA production
+Chemokine signaling pathway
+Insulin secretion
+Insulin signaling pathway
+Adipocytokine signaling pathway
+PPAR signaling pathway
+GnRH signaling pathway
+Ovarian steroidogenesis
+Estrogen signaling pathway
+Progesterone-mediated oocyte maturation
+Prolactin signaling pathway
+Oxytocin signaling pathway
+Thyroid hormone synthesis
+Thyroid hormone signaling pathway
+Melanogenesis
+Renin-angiotensin system
+Cardiac muscle contraction
+Adrenergic signaling in cardiomyocytes
+Vascular smooth muscle contraction
+Salivary secretion
+Gastric acid secretion
+Pancreatic secretion
+Bile secretion
+Carbohydrate digestion and absorption
+Protein digestion and absorption
+Fat digestion and absorption
+Vitamin digestion and absorption
+Mineral absorption
+Vasopressin-regulated water reabsorption
+Aldosterone-regulated sodium reabsorption
+Endocrine and other factor-regulated calcium reabsorption
+Proximal tubule bicarbonate reclamation
+Collecting duct acid secretion
+Glutamatergic synapse
+GABAergic synapse
+Cholinergic synapse
+Dopaminergic synapse
+Serotonergic synapse
+Long-term potentiation
+Long-term depression
+Retrograde endocannabinoid signaling
+Synaptic vesicle cycle
+Neurotrophin signaling pathway
+Phototransduction
+Phototransduction - fly
+Olfactory transduction
+Taste transduction
+Inflammatory mediator regulation of TRP channels	
+Dorso-ventral axis formation
+Axon guidance
+Osteoclast differentiation
+Circadian rhythm
+Circadian entrainment
+Circadian rhythm - fly
+Circadian rhythm - plant
+Plant-pathogen interaction
+
+
